@@ -1,0 +1,1709 @@
+cuda:0
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.5,
+ 'overall-accuracy': 0.5,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.5,
+ 'skin-type-5-accuracy': 0.5,
+ 'skin-type-6-accuracy': 0.5}
+Epoch 1: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 339.25it/s]
+Training Loss (epoch 1): 0.764486836194992
+{'123-group-accuracy': 0.43333333333333335,
+ '456-group-accuracy': 0.5,
+ 'overall-accuracy': 0.4666666666666667,
+ 'skin-type-1-accuracy': 0.3,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.5,
+ 'skin-type-5-accuracy': 0.5,
+ 'skin-type-6-accuracy': 0.5}
+Epoch 2: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.91it/s]
+Training Loss (epoch 2): 0.7159433221817016
+{'123-group-accuracy': 0.43333333333333335,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.55,
+ 'skin-type-1-accuracy': 0.2,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.5,
+ 'skin-type-5-accuracy': 1.0,
+ 'skin-type-6-accuracy': 0.5}
+Epoch 3: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 358.00it/s]
+Training Loss (epoch 3): 0.7001436865329742
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.7333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 1.0,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.4}
+Epoch 4: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.05it/s]
+Training Loss (epoch 4): 0.6984295451641083
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 1.0,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 5: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.22it/s]
+Training Loss (epoch 5): 0.6973438096046448
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.7,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 6: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.62it/s]
+Training Loss (epoch 6): 0.696931893825531
+{'123-group-accuracy': 0.4000000000000001,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.5333333333333333,
+ 'skin-type-1-accuracy': 0.3,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.4,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.4}
+Epoch 7: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.17it/s]
+Training Loss (epoch 7): 0.6968961071968078
+{'123-group-accuracy': 0.4333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.55,
+ 'skin-type-1-accuracy': 0.2,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.4}
+Epoch 8: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.46it/s]
+Training Loss (epoch 8): 0.696561621427536
+{'123-group-accuracy': 0.3666666666666667,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.5166666666666667,
+ 'skin-type-1-accuracy': 0.2,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.4,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.4}
+Epoch 9: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.87it/s]
+Training Loss (epoch 9): 0.6962902426719666
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.7,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 10: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.22it/s]
+Training Loss (epoch 10): 0.6962696743011475
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.55,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 11: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.24it/s]
+Training Loss (epoch 11): 0.6962742066383362
+{'123-group-accuracy': 0.4666666666666666,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.55,
+ 'skin-type-1-accuracy': 0.4,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 12: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.23it/s]
+Training Loss (epoch 12): 0.6959750485420227
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 13: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 346.03it/s]
+Training Loss (epoch 13): 0.6959600877761841
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 14: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.97it/s]
+Training Loss (epoch 14): 0.6959810340404511
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 15: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 247.71it/s]
+Training Loss (epoch 15): 0.6957217812538147
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 16: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.39it/s]
+Training Loss (epoch 16): 0.6956651687622071
+{'123-group-accuracy': 0.4666666666666666,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.55,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.4,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 17: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.33it/s]
+Training Loss (epoch 17): 0.6955607950687408
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.4,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 1.0,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 18: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.02it/s]
+Training Loss (epoch 18): 0.6957771277427673
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 19: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.02it/s]
+Training Loss (epoch 19): 0.6956800842285156
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 20: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.63it/s]
+Training Loss (epoch 20): 0.6955904650688172
+{'123-group-accuracy': 0.4666666666666666,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.55,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.4,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 21: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.70it/s]
+Training Loss (epoch 21): 0.6952761256694794
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 22: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.86it/s]
+Training Loss (epoch 22): 0.6954205596446991
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.6,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 23: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.59it/s]
+Training Loss (epoch 23): 0.6949630641937256
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 24: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.49it/s]
+Training Loss (epoch 24): 0.695089852809906
+{'123-group-accuracy': 0.5666666666666668,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 25: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.52it/s]
+Training Loss (epoch 25): 0.6952308762073517
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 26: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.76it/s]
+Training Loss (epoch 26): 0.6951951837539673
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.6,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 27: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.67it/s]
+Training Loss (epoch 27): 0.6952737665176392
+{'123-group-accuracy': 0.4666666666666666,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.4,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 28: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.71it/s]
+Training Loss (epoch 28): 0.6952539968490601
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 29: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.57it/s]
+Training Loss (epoch 29): 0.6953402280807495
+{'123-group-accuracy': 0.7333333333333334,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6833333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.8,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 30: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.28it/s]
+Training Loss (epoch 30): 0.6949544107913971
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 31: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.94it/s]
+Training Loss (epoch 31): 0.6952420103549958
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 32: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 336.65it/s]
+Training Loss (epoch 32): 0.6953428709506988
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 33: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 358.33it/s]
+Training Loss (epoch 33): 0.6951983559131623
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.7000000000000001,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.6,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 1.0,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 34: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 358.29it/s]
+Training Loss (epoch 34): 0.6949814820289612
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.5666666666666667,
+ 'overall-accuracy': 0.55,
+ 'skin-type-1-accuracy': 0.6,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 35: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.91it/s]
+Training Loss (epoch 35): 0.6949543142318726
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.5666666666666667,
+ 'overall-accuracy': 0.55,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 36: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.09it/s]
+Training Loss (epoch 36): 0.6947631430625916
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.5666666666666667,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 37: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.49it/s]
+Training Loss (epoch 37): 0.6949120914936066
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 38: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.87it/s]
+Training Loss (epoch 38): 0.694825929403305
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 39: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.74it/s]
+Training Loss (epoch 39): 0.6946867513656616
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 40: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.88it/s]
+Training Loss (epoch 40): 0.6948923861980438
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 41: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.05it/s]
+Training Loss (epoch 41): 0.6945587873458863
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.6,
+ 'skin-type-2-accuracy': 0.4,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 42: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.01it/s]
+Training Loss (epoch 42): 0.6947550106048584
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 43: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.38it/s]
+Training Loss (epoch 43): 0.6945528733730316
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 44: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.09it/s]
+Training Loss (epoch 44): 0.6941389393806457
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 45: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 318.63it/s]
+Training Loss (epoch 45): 0.6946317481994629
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 46: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.04it/s]
+Training Loss (epoch 46): 0.6948061454296112
+{'123-group-accuracy': 0.7000000000000001,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 47: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.45it/s]
+Training Loss (epoch 47): 0.6945302128791809
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 48: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.87it/s]
+Training Loss (epoch 48): 0.6944796133041382
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 49: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.64it/s]
+Training Loss (epoch 49): 0.6944254457950592
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.4,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 50: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.23it/s]
+Training Loss (epoch 50): 0.6944011533260346
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 51: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.31it/s]
+Training Loss (epoch 51): 0.6943664133548737
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 52: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.42it/s]
+Training Loss (epoch 52): 0.694621570110321
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 53: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.97it/s]
+Training Loss (epoch 53): 0.6942614126205444
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 54: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.35it/s]
+Training Loss (epoch 54): 0.6944444906711579
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 55: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.63it/s]
+Training Loss (epoch 55): 0.6942632818222045
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.4,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 56: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.95it/s]
+Training Loss (epoch 56): 0.6942563283443451
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.6,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 57: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.33it/s]
+Training Loss (epoch 57): 0.6942292869091033
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.5666666666666667,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 58: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.00it/s]
+Training Loss (epoch 58): 0.6946939611434937
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 59: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.47it/s]
+Training Loss (epoch 59): 0.6945442807674408
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 60: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.32it/s]
+Training Loss (epoch 60): 0.6941418874263764
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 61: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.12it/s]
+Training Loss (epoch 61): 0.694322966337204
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 62: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.34it/s]
+Training Loss (epoch 62): 0.6943840992450714
+{'123-group-accuracy': 0.7000000000000001,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 63: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.92it/s]
+Training Loss (epoch 63): 0.6945955920219421
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 64: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 353.74it/s]
+Training Loss (epoch 64): 0.6939492774009705
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.7000000000000001,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.9,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 65: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 358.56it/s]
+Training Loss (epoch 65): 0.6941431403160095
+{'123-group-accuracy': 0.5666666666666667,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.7,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.9,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 66: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.19it/s]
+Training Loss (epoch 66): 0.6943421804904938
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.6,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 67: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.13it/s]
+Training Loss (epoch 67): 0.6939917778968812
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.9,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 68: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.39it/s]
+Training Loss (epoch 68): 0.6942212903499603
+{'123-group-accuracy': 0.5,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5666666666666667,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 69: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.19it/s]
+Training Loss (epoch 69): 0.6943358278274536
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 70: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.40it/s]
+Training Loss (epoch 70): 0.6939438807964325
+{'123-group-accuracy': 0.5333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.5,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 71: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.62it/s]
+Training Loss (epoch 71): 0.6943495595455169
+{'123-group-accuracy': 0.7000000000000001,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 72: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.93it/s]
+Training Loss (epoch 72): 0.6942272627353668
+{'123-group-accuracy': 0.6000000000000001,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.4,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 73: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.46it/s]
+Training Loss (epoch 73): 0.6941399562358856
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 74: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.77it/s]
+Training Loss (epoch 74): 0.6938514482975006
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 75: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 359.92it/s]
+Training Loss (epoch 75): 0.6938362038135528
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 76: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 358.99it/s]
+Training Loss (epoch 76): 0.6941767621040345
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 77: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 353.59it/s]
+Training Loss (epoch 77): 0.6940789246559143
+{'123-group-accuracy': 0.7000000000000001,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 78: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 347.74it/s]
+Training Loss (epoch 78): 0.6939217782020569
+{'123-group-accuracy': 0.7000000000000001,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.8,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 79: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 348.91it/s]
+Training Loss (epoch 79): 0.69394047498703
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 80: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 349.81it/s]
+Training Loss (epoch 80): 0.6939589607715607
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 81: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 348.01it/s]
+Training Loss (epoch 81): 0.6936834228038787
+{'123-group-accuracy': 0.5666666666666668,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.5833333333333334,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.4,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 82: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 349.43it/s]
+Training Loss (epoch 82): 0.6936132788658143
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 83: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 350.87it/s]
+Training Loss (epoch 83): 0.6936279571056366
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 84: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 350.92it/s]
+Training Loss (epoch 84): 0.6941290020942688
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 85: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 346.26it/s]
+Training Loss (epoch 85): 0.6936749720573425
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 86: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.64it/s]
+Training Loss (epoch 86): 0.6938893151283264
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 87: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.25it/s]
+Training Loss (epoch 87): 0.6941436624526978
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 88: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.78it/s]
+Training Loss (epoch 88): 0.6941882824897766
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 89: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.67it/s]
+Training Loss (epoch 89): 0.6936197006702423
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 90: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.81it/s]
+Training Loss (epoch 90): 0.6936572253704071
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 91: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.99it/s]
+Training Loss (epoch 91): 0.6935063350200653
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 92: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.13it/s]
+Training Loss (epoch 92): 0.6935938346385956
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 93: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.76it/s]
+Training Loss (epoch 93): 0.693440375328064
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 94: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.81it/s]
+Training Loss (epoch 94): 0.6936704671382904
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 95: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.69it/s]
+Training Loss (epoch 95): 0.6931713557243347
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 96: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 344.98it/s]
+Training Loss (epoch 96): 0.6934962713718414
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.9,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 97: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.77it/s]
+Training Loss (epoch 97): 0.693756685256958
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.9,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 98: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.95it/s]
+Training Loss (epoch 98): 0.6937950360774994
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.9,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 99: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.98it/s]
+Training Loss (epoch 99): 0.6938583314418793
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 100: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.31it/s]
+Training Loss (epoch 100): 0.6936824595928193
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 101: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.97it/s]
+Training Loss (epoch 101): 0.6938839375972747
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.7000000000000001,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.9,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 102: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.70it/s]
+Training Loss (epoch 102): 0.6933661651611328
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 103: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.67it/s]
+Training Loss (epoch 103): 0.6933722484111786
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 104: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.28it/s]
+Training Loss (epoch 104): 0.6935841715335846
+{'123-group-accuracy': 0.7333333333333334,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.7,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 105: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.65it/s]
+Training Loss (epoch 105): 0.6939288902282715
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 106: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.19it/s]
+Training Loss (epoch 106): 0.6934685182571411
+{'123-group-accuracy': 0.7000000000000001,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6833333333333333,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 107: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.61it/s]
+Training Loss (epoch 107): 0.6933291923999786
+{'123-group-accuracy': 0.7000000000000001,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6833333333333333,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 108: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.02it/s]
+Training Loss (epoch 108): 0.6932341825962066
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 109: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 355.59it/s]
+Training Loss (epoch 109): 0.6933027005195618
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 110: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.82it/s]
+Training Loss (epoch 110): 0.6933769321441651
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 111: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 358.80it/s]
+Training Loss (epoch 111): 0.6930430066585541
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 112: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.62it/s]
+Training Loss (epoch 112): 0.6935477125644683
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 113: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.47it/s]
+Training Loss (epoch 113): 0.6935091304779053
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 114: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.91it/s]
+Training Loss (epoch 114): 0.6935851502418519
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 115: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.27it/s]
+Training Loss (epoch 115): 0.6934899485111237
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 116: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.11it/s]
+Training Loss (epoch 116): 0.6928344130516052
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 117: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.07it/s]
+Training Loss (epoch 117): 0.6937948191165924
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 118: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.57it/s]
+Training Loss (epoch 118): 0.6925272035598755
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 119: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.70it/s]
+Training Loss (epoch 119): 0.6927308237552643
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 120: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.10it/s]
+Training Loss (epoch 120): 0.6930832529067993
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 121: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.84it/s]
+Training Loss (epoch 121): 0.6928500485420227
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 122: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.92it/s]
+Training Loss (epoch 122): 0.693226318359375
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 123: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.85it/s]
+Training Loss (epoch 123): 0.6929662668704987
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 124: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.62it/s]
+Training Loss (epoch 124): 0.692893295288086
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 125: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.20it/s]
+Training Loss (epoch 125): 0.6930897569656372
+{'123-group-accuracy': 0.7000000000000001,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 126: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.62it/s]
+Training Loss (epoch 126): 0.6930670785903931
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 127: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.02it/s]
+Training Loss (epoch 127): 0.6929888808727265
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 128: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 349.99it/s]
+Training Loss (epoch 128): 0.6929345691204071
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 129: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.68it/s]
+Training Loss (epoch 129): 0.693042562007904
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 130: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.79it/s]
+Training Loss (epoch 130): 0.6930237185955047
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 131: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.92it/s]
+Training Loss (epoch 131): 0.692817987203598
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 132: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.56it/s]
+Training Loss (epoch 132): 0.6930743014812469
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 133: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.48it/s]
+Training Loss (epoch 133): 0.6932721984386444
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 134: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.82it/s]
+Training Loss (epoch 134): 0.6929437530040741
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 135: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.31it/s]
+Training Loss (epoch 135): 0.6927675199508667
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 136: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.90it/s]
+Training Loss (epoch 136): 0.6925076365470886
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 137: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.46it/s]
+Training Loss (epoch 137): 0.692798204421997
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 138: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.73it/s]
+Training Loss (epoch 138): 0.692973552942276
+{'123-group-accuracy': 0.7000000000000001,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 139: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.24it/s]
+Training Loss (epoch 139): 0.6925844085216523
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.65,
+ 'skin-type-1-accuracy': 1.0,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 140: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 349.20it/s]
+Training Loss (epoch 140): 0.6925153863430024
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 141: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.04it/s]
+Training Loss (epoch 141): 0.6931818234920502
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 142: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.23it/s]
+Training Loss (epoch 142): 0.6922887635231018
+{'123-group-accuracy': 0.7333333333333334,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.7,
+ 'skin-type-3-accuracy': 0.6,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 143: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 361.61it/s]
+Training Loss (epoch 143): 0.6930442523956298
+{'123-group-accuracy': 0.7333333333333334,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6666666666666666,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.8,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.2}
+Epoch 144: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 360.73it/s]
+Training Loss (epoch 144): 0.6925427556037903
+{'123-group-accuracy': 0.6666666666666666,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 145: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.72it/s]
+Training Loss (epoch 145): 0.693058431148529
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.6,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 146: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.84it/s]
+Training Loss (epoch 146): 0.6924493479728698
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 147: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.51it/s]
+Training Loss (epoch 147): 0.6927034533023835
+{'123-group-accuracy': 0.6333333333333333,
+ '456-group-accuracy': 0.6,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.9,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.7,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 148: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 362.57it/s]
+Training Loss (epoch 148): 0.6922132074832916
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6333333333333334,
+ 'overall-accuracy': 0.6166666666666667,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.8,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 149: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 363.65it/s]
+Training Loss (epoch 149): 0.692095718383789
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Epoch 150: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:00<00:00, 364.36it/s]
+Training Loss (epoch 150): 0.6924867939949035
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+Finished Training!
+{'123-group-accuracy': 0.6,
+ '456-group-accuracy': 0.6666666666666666,
+ 'overall-accuracy': 0.6333333333333333,
+ 'skin-type-1-accuracy': 0.8,
+ 'skin-type-2-accuracy': 0.5,
+ 'skin-type-3-accuracy': 0.5,
+ 'skin-type-4-accuracy': 0.9,
+ 'skin-type-5-accuracy': 0.8,
+ 'skin-type-6-accuracy': 0.3}
+wandb: Waiting for W&B process to finish... (success).
+wandb: 
+wandb: Run history:
+wandb:   123-group-accuracy ▁▃▁▂▃▃▃▂▃▃▄▆▃▅▆▆▆▄▆▅▇▄▅▆▅▆▅▅▇▅▆▆▆▆▅▅▆█▆▅
+wandb:   456-group-accuracy ▁█▆▅▅▅▅▆▆▃▆▅▅▄▄▃▆▆▅▅▅▄▄▆▅▆▇▆▆▆▆▅▄▆▆▆▅▄▄▆
+wandb:        Training loss █▃▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▂▁▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+wandb:     overall-accuracy ▁▆▄▄▄▄▅▄▅▄▆▆▅▅▆▅▇▆▇▆▇▅▅▇▆▇▇▆█▆▇▆▆▇▆▆▇▇▆▆
+wandb: skin-type-1-accuracy ▂▄▁▃▄▄▄▄▄▄▅▇▄▆▆▇▇▅▇▆▇▆▆▇▆▆▆▆█▆█▇▇▆▆▆█▇▇▆
+wandb: skin-type-2-accuracy ▃▅▃▃▃▃▃▁▅▃▃▃▃▃▆▃▅▃▃▃▆▁▃▃▃▆▃▃▃▃▃▃▃▅▃▃▃█▃▃
+wandb: skin-type-3-accuracy ▁▁█▁▁▁█▁▁█▁▁█▁▁▁▁▁█▁▁▁▁▁▁▁▁▁█▁▁▁▁▁▁▁▁▁▁▁
+wandb: skin-type-4-accuracy ▁█▅▅▅▇▇▇▇▄▇▇▅▅▄▄▇▇▅▅▅▄▄▇▅▇▇▇▇▇▇▅▄▇▇▇▅▅▄▇
+wandb: skin-type-5-accuracy ▁▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆█▆▆▆▆▆▆▆██▆▆▆▆▆▆▆▆▆▆▆▆▆
+wandb: skin-type-6-accuracy █▆▆▃▃▁▁▃▃▁▃▁▃▁▃▁▃▁▃▃▃▃▃▃▃▁▃▃▃▃▃▃▃▃▃▃▃▁▃▃
+wandb:  skin_type_five_loss █▇▇▇▇▇▆▆▆▆▆▆▅▆▅▅▅▅▆▅▅▄▄▄▃▄▂▃▃▃▃▃▂▁▁▃▁▁▁▁
+wandb:  skin_type_four_loss █▇▇▇▇▇▆▆▆▇▆▆▆▆▆▆▅▅▅▅▅▅▅▄▄▃▃▃▃▃▃▃▃▂▂▂▂▂▁▁
+wandb:   skin_type_one_loss █▇▆▇▇▆▆▆▆▅▅▅▅▅▄▅▄▄▄▄▅▃▄▄▃▃▃▃▂▂▃▂▂▂▃▂▂▁▁▁
+wandb:   skin_type_six_loss █▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▂▁▁▁▁▂▁▂▁▂▁▁▁▁▁▁▁▁▁
+wandb: skin_type_three_loss █▆▇▆▅▅▄▅▄▅▅▄▄▅▄▅▄▃▄▃▃▄▃▃▄▃▃▂▂▃▂▂▂▂▂▂▁▁▁▁
+wandb:   skin_type_two_loss ▁██▇█▇▇▇▇▇▇▇▇▇▇▆▇▆▆▆▆▅▆▄▄▄▄▅▄▄▅▄▄▃▃▃▃▂▂▁
+wandb: 
+wandb: Run summary:
+wandb:   123-group-accuracy 0.6
+wandb:   456-group-accuracy 0.66667
+wandb:        Training loss 0.69249
+wandb:     overall-accuracy 0.63333
+wandb: skin-type-1-accuracy 0.8
+wandb: skin-type-2-accuracy 0.5
+wandb: skin-type-3-accuracy 0.5
+wandb: skin-type-4-accuracy 0.9
+wandb: skin-type-5-accuracy 0.8
+wandb: skin-type-6-accuracy 0.3
+wandb:  skin_type_five_loss 0.68465
+wandb:  skin_type_four_loss 0.6828
+wandb:   skin_type_one_loss 0.68816
+wandb:   skin_type_six_loss 0.67909
+wandb: skin_type_three_loss 0.68845
+wandb:   skin_type_two_loss 0.68694
+
+
