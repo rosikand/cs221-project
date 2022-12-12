@@ -24,13 +24,7 @@
 
 Our goal is to classify skin lesions as cancerous or not from images. We use the [SynthDerm](https://affect.media.mit.edu/dissect/synthderm/) synthetic skin lesion image dataset which contains an abundance of positive and negative skin lesion synthetic images for all six of the [Fitzpatrick skin color types](https://en.wikipedia.org/wiki/Fitzpatrick_scale). 
 
-The setup in this multi-task learning problem is to treat each fitzpatrick type as a task $T_i$ where each task encodes the respective distribution: 
-
-$$
-\mathscr{T}_i \triangleq\left\{p_i(\mathbf{x}), p_i(\mathbf{y} \mid \mathbf{x}), \mathscr{L}_i\right\}.
-$$
-
-The important part is that for skin types 1, 2, and 3, we use 50 training samples but for skin types 4, 5, and 6, we use only 25 training samples (data imbalance on a per-task basis). This to reflect the fact that most skin cancer datasets that exist in the real world often have group imbalances in the data, favoring the lighter skin colors over the darker skin colors which creates downstream bias upon performing inference.  
+The setup in this multi-task learning problem is to treat each fitzpatrick type as a task $T_i$ where each task encodes the respective distribution. The important detail is that for skin types 1, 2, and 3, we use 50 training samples but for skin types 4, 5, and 6, we use only 25 training samples (data imbalance on a per-task basis). This to reflect the fact that most skin cancer datasets that exist in the real world often have group imbalances in the data, favoring the lighter skin colors over the darker skin colors which creates downstream bias upon performing inference.  
 
 In the multi-task setup, our goal is to learn a model that is capable of inference for each task all at once (i.e., to make a prediction, we'd input a sample from each of the six tasks and we'd retrieve the predictions for all 6 at once). In traditional multi-task learning, the objective is to minimize the sum of losses across all tasks:  
 
