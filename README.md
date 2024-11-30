@@ -29,8 +29,11 @@ The setup in this multi-task learning problem is to treat each fitzpatrick type 
 In the multi-task setup, our goal is to learn a model that is capable of inference for each task all at once (i.e., to make a prediction, we'd input a sample from each of the six tasks and we'd retrieve the predictions for all 6 at once). In traditional multi-task learning, the objective is to minimize the sum of losses across all tasks:  
 
 $$
-\min _\theta \sum_{i=1}^T \mathscr{L}_i\left(\theta, \mathscr{D}_i\right).
+\[
+\min_\theta \sum_{i=1}^T \mathscr{L}_i\left(\theta, \mathscr{D}_i\right)
+\]
 $$
+
 
 However, our novel, **proposed approach is to minimize the worst-case loss across all tasks** to ensure robustness across all tasks: 
 
